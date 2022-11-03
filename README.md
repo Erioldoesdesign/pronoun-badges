@@ -8,3 +8,5 @@ Can be changed and remixed however people like
 These badge templates are currently using an old Awesome Merchandise template file with bleed for a 32mm round badge.
 
 I'll be making some open file formats asap
+
+The font used is 'GilbertBoldPreview4' and the colours are in CMYK so render odd in the github preview.
